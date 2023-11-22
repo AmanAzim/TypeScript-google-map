@@ -1,0 +1,1 @@
+{"mappings":"AAAA,QAAQ,GAAG,CAAC,OACZ,wBAAwB","sources":["Desktop/Development/Typescript-maps/src/index.ts"],"sourcesContent":["console.log(\"hi\");\n// npx parcel index.html\n"],"names":[],"version":3,"file":"index.ed55476c.js.map","sourceRoot":"/__parcel_source_root/"}
